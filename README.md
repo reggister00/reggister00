@@ -6,4 +6,4 @@
 <!---
 reggister00/reggister00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->I am a learning game and website designer. I only use coding... completely original by me.
+--->I am a learning game and website designer. I use originial and non-original codes. 
